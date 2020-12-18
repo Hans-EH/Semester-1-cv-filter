@@ -1,0 +1,36 @@
+requirements:
+linux
+LaTeX
+
+How to generate the new CV:
+(1) Write a "long_cv.txt" document, preferrably atleast 1000 words.
+(1.2) The first section, will ways be included as is, this section should probably be general contact information.
+(1.3) Second section needs to be tagged using "#Work experience", 
+      this will be an itemized list of work experience. Each item should be seperated with a newline.
+(1.4) Third section needs to be tagged using "#Education",
+      this will be an itemized list of different degrees/educational background. Each item should be seperated with a newline.
+(1.5) Fourth section needs to be tagged using "#Freetext". Each section are seperated using a newline.
+      Each section should be a coherrent block of information.
+(2) Find a job posting, and include all keywords and required skills from that job posting,
+    then include it in the "keywords.txt" file.
+(3) include a picture of yourself, naming it "picture"
+(4) go into the /program_files folder, and run the file "generate_cv"
+(5) A pdf file should now have been generated in the folder /program_files
+
+
+If one wishes to change the output pdf post processing, follow these steps:
+(1) Go into /program_files
+(2) Edit "CV.tex" to the desired information
+(3) Run "CV_generator.tex" using ones preferred LaTeX compiler.
+
+Tips for writing a long CV:
+(1) Writing ones age is only beneficial if you're around 35, as from that point on it makes you less attractive.
+(2) Adding industry buzzwords increases your chances
+(3) Demonstrating earlier job results using numbers increases your chances.
+(4) Listing achievements, where you weren't in charge, but only a helping hand
+ decreases your chances.
+(5) Using leadership affiliated buzzwords increases your chances
+(6) Start ones sentences with distinct action verbs, increases ones chances.
+   e.g. Do "Developed a mainframe architecture that dramatically increased efficiency"
+   instead of "After surveying people, the mainframe architecture that increases efficiency was
+   developed by me."

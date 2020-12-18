@@ -1,0 +1,130 @@
+Name: David Rasmussen \\
+Address: Islands brygge 56b 1tv \\
+Zip nr. 2300 Koebenhavn S \\
+Phone number: 26325635 \\
+E-mail: david2300@hotmail.com \\
+Country: Danmark \\
+Date of birth: 11/06/1995
+
+#Work experience
+2010 - 2012 Netto - Sevice employee
+2012 - 2013 Bauhaus Valby - Salesman
+2013 - 2014 Q8 - Sales Assistant
+2016 - 2018 Elgiganten Glostrup - Cross operation 
+2018 - 2020 Concept - Client service 
+
+#Education
+2011 - 2014 HTX-Hilleroed, Biotech
+2015 - 2018 Aalborg university Bachelor of Software Engineering
+2018 - 2020 Aalborg university Master of Software Engineering
+
+
+#Freetext
+I learned to tackle multiple things at once, while working at Q8, since I was alone in the shop.
+
+I was responsible for handling company customers at Bauhaus.
+
+My slogan is "if its worth doing, then its worth doing properly".
+
+Everything i do, i try to be a perfectionist about it.
+
+During my time in Netto, I was the one everyone went to, when they needed help: From there I learned vital problem solving skills.
+
+Responsible for helping my family with  groceries.
+
+Expertise in handling customers, and up selling, such that they always end up buying more then they expected.
+
+Responsible for initial designs and human centered interactions during my time at concept.
+
+I'm fluent in english and danish.
+
+My highschool exam project was using c sharp (unity) to make a game.
+
+My first semester project in software engineering, was to make a filtering system for CVs, such the unemployed could be more productive with how many applications they send.
+
+I have elementary understand of business and economics.
+
+I have taken courses in analysis.
+
+Im incredibly disciplined, and work good in teams.
+
+I have lots of skills in programming.
+
+I have a good fundamental understanding of databases, where i have made a server capable of retrieving and sorting data automatically.
+
+I take a large interest in electronics. i have done multiple projects.
+
+through university, i have learned c in depth.
+
+I'm proficient in C++.
+
+I'm able to do mathematical optimization using matlab.
+
+my earlier work include: working at a sushi restaurant, Bilka, bauhaus, Q8, and with selling christmas trees.
+because of this, im disciplined in customer service.
+
+I am also good at handling lots of things at once, without getting stressed out.
+
+I took a high school diploma in biotechnology: I finished with a grade of 10.7.
+
+Throughout highschool, i joined a lot of extra curricala activities.
+
+Administrated and ran a minecraft server, where people ended up donating around 50usd a month: People trusted and respected me a lot, which shows my capabilities as a leader.
+
+I used to run a youtube channel, where i for over a year, uploaded every week. This shows my abilities uphold deadlines and how ambitious i am.
+
+I love presenting: i have therefore heavily improved my oral skills.
+
+One of my core interests lie in history, especially roman history: This is what ignited my interest in political science, and how to lead.
+
+I love discussion philosophy, and especially moral ambiguities.
+
+I read a lot of philosophy in my free time.
+
+I'm concise and well spoken in my communication.
+
+I was an incredible dedicated person.
+
+I have done multiple extra projects in my free time.
+
+I have made my own self driving RC car.
+
+I have made an autonomous robot, that can drive on its own, using embedded sensors and primitive artificial-intelligence..
+
+I have spent a lot of time during integrated circuits in my free time.
+
+I once made an embedded electronic watch/thermometer for my girlfriend.
+
+I love helping people.
+
+I have taken a BSc and MSc degree in software engineering.
+
+My Bsc was focused on group work, which has honned my team skills.
+
+I was always the teamleader during group projects.
+
+We did a multi group project, which made me good at agile and large scale software development.
+
+I have experience using Git as a resource management tool; capable of managing dataflow and merging multiple branches to deliver a finished product.
+
+I specialized in articifial intelligence and cloud computing.
+
+I have expertise in javascript, .Net, Css, Html, SQL to do general web programming.
+
+I have extensive capabilities in UX and human centered design, as shown by my amazing website MyAmazingWebsite.com.
+
+I have experience in python using their libraries to do machine learning.
+
+I have good experience using Java
+
+I have done a lot of lowlevel programming, including: microproccessor programming, and using the language C.
+
+I have skills in optimization, more specifically how to use financial and management optimizaiton.
+
+I have Multiple years of experience in algorithms and datastructures.
+
+I'm capable of tackling most complex computer science problems.
+
+I have experience coding in Windows and linux.
+
+Experience using scrum meetings as a part of the everyday organisational process.
